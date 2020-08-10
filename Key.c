@@ -1,3 +1,4 @@
+增加一行错误代码
 #include "stc15.h"
 #include "Key.h"
 #include "oled.h"
